@@ -1,1 +1,56 @@
-# Asra-khan
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hello World! I'm Asra Ameen 👩‍💻
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=AI+Learner;Computer+Science+Student;Tech+Enthusiast;Future+Developer" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=green" alt="Profile Views">
+</p>
+
+## 💫 About Me
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+Hello! I'm **Asra Ameen**.
+
+I'm a passionate learner interested in technology, Artificial Intelligence, and Computer Science.
+
+🎓 My Education:
+- Completed Intermediate in ICS (Computer Science).
+- Currently learning through an AI Computer Course.
+  
+🌱 My Interests:
+- Artificial Intelligence (AI)
+- Computer Science
+- Technology and Innovation
+- Learning New Skills
+- Programming and Coding
+- Exploring AI Tools
+
+🎯 My Goal:
+To improve my technical skills, explore new technologies, and become a successful professional in the world of technology.
+
+> "Every expert was once a beginner. Keep learning, keep growing!" 🌸
+
+## 👩‍💻 A Little About Me in Code
+
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Asra Ameen"
+        self.education = "Intermediate in ICS"
+        self.course = "AI Computer Course"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Computer Science",
+            "Technology",
+            "Programming"
+        ]
+
+        self.goal = "Become a Successful Developer"
+
+    def fun_fact(self):
+        return "I love learning new things!"
